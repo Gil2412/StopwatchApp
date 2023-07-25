@@ -1,16 +1,15 @@
-# CalculatorApp
+# Stopwatch App
 
-Hello my name is Gil and this is my first calculator application.
+hi, my name is Gil and this is my first stopwatch application.
 
 ## Features:
 
 * "Dark" mode adjustment
 * Switch mode ("Dark"/"Light") button
-* Plus/ minus button
-* Adjust font size according to the screen
+* Loop events
+* Automatic loop line scrolling 
 
 
 ## Didn't do:
-
 * Mobile responsive
-# TimerApp
+
